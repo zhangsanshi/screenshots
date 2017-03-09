@@ -1,0 +1,10 @@
+{
+  "name": "screenshots",
+  "version": "0.0.1",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.14"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  }
+}
